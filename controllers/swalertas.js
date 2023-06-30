@@ -1,7 +1,7 @@
 Swal.fire({
     title: 'Bienvenido',
-	text:   'Puedes consultar la información que necesitas y descargarla.',
-	// html:
+	//text:   '',
+	html: 'Puedes consultar la información que necesitas y descargarla.<br><br> <b>Nota:</b> Verificar en la carpeta de descargas, si el archivo es descargado correctamente',
 	icon: 'info',
 	confirmButtonText: 'Aceptar',
 	// footer:
